@@ -1,0 +1,48 @@
+#maintitle {
+    color:plum;
+    text-align: center;
+    font-display: block;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+body {
+    background-color: beige;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.photo {
+    border: 5px solid plum;
+    border-radius: 10px;
+
+}
+
+.total{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+
+}
+
+
+.abutt {
+
+    background-color: red;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+.bbutt {
+    
+    background-color:black;
+    color :white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
